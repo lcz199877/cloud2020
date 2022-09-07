@@ -10,4 +10,5 @@ public class gittestclass {
     //222
     //hot-fix test
     //master conflict test
+    //hot-fix test222 conflict test
 }
